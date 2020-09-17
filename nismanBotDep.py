@@ -49,7 +49,7 @@ ans_list = ["El dotor Bisman tenia contra la presidenta y lo que dijo, tenia tod
  "o sea que puso el pan sobre la mesa, al pan pan, al vino vino, sobre las cartas la mesa",
  "con mucha verdad, nada de mentira y por eso lo mandaron a asesinar"]
 
-key_list = ["Nisman", "Bisman", "nisman", "bisman", "cartas", "mesa", "NISMAN", "BISMAN"]
+key_list = ["Nisman", "Bisman", "nisman", "bisman", "cartas", "mesa", "NISMAN", "BISMAN", "Doctora"]
 
 # Define a few command handlers. These usually take the two arguments update and
 # context. Error handlers also receive the raised TelegramError object in error.
