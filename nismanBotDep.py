@@ -44,10 +44,33 @@ else:
     logger.error("No MODE specified!")
     sys.exit(1)
 
-ans_list = ["El dotor Bisman tenia contra la presidenta y lo que dijo, tenia todo confirmado todo cierto",
+ans_list = ["El dotor Bisman tenia digamo contra la presidenta y lo que dijo, tenia todo confirmado todo cierto",
  "él sea estaba apuesto a todo",
  "o sea que puso el pan sobre la mesa, al pan pan, al vino vino, sobre las cartas la mesa",
- "con mucha verdad, nada de mentira y por eso lo mandaron a asesinar"]
+ "con mucha verdad, nada de mentira entonces y por eso lo mandaron a asesinar",
+ "Yo quiero que se aclare justicia para Discman",
+ "o sea a él lo assssesinaron, o sea lo mandaron a asesinar",
+ "yo soy magre y agüela",
+ "yo estoy acá presente pidiendo justicia para Bisman",
+ "como chi o como no",
+ "como como?",
+ "yo estoy en silencio y pa hacer un homenaje a Bisman",
+ "porque mataron a un fiscal",
+ "se podía hablar y arreglar las cosas hasta que se sepa todas las cosas y no mandar matar",
+ "Jorge Dib soy yo",
+ "Un argentino, viva la patria. 1810-2015. El pueblo quiere saber. Salvemos la república",
+ "Lo que aquí he expresado el sentimiento de un argentino de 65 años",
+ "dentro de la ley todo, fuera de la ley nada",
+ "Aquellos que tenemos como yo mi edad",
+ "lo menos que merece un ser humano por mas bronca que se tenga es decir 'descanse en paz' porque todos salimos de una madre",
+ "lamentablemente no soy doctor, no soy abogado, no soy penalista",
+ "simplemente soy un ser humano autodidáctico",
+ "hay transplante de todo menos de cerebro, pero yo pienso",
+ "me encuentro con tristes realidades",
+ "yo soy argentino, hujo de argentino y nieto de árabes",
+ "me encantó porque es como si me hubieran matado un hijo a mi",
+ "muy buenmozo, un encanto de persona. Ojalá lo hubiera conocido en vida",
+ "hermoso hermoso, me encanta"]
 
 key_list = ["Nisman", "Bisman", "nisman", "bisman", "cartas", "mesa", "NISMAN", "BISMAN", "Doctora",
 "Sobre las cartas", "sobre las cartas", "apuesto a todo", "todo confirmado", "Doctor", "doctor"]
