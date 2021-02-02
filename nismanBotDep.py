@@ -67,13 +67,14 @@ ans_list = ["El dotor Bisman tenia digamo contra la presidenta y lo que dijo, te
  "simplemente soy un ser humano autodidáctico",
  "hay transplante de todo menos de cerebro, pero yo pienso",
  "me encuentro con tristes realidades",
- "yo soy argentino, hujo de argentino y nieto de árabes",
+ "yo soy argentino, hijo de argentino y nieto de árabes",
  "me encantó porque es como si me hubieran matado un hijo a mi",
  "muy buenmozo, un encanto de persona. Ojalá lo hubiera conocido en vida",
  "hermoso hermoso, me encanta"]
 
 key_list = ["Nisman", "Bisman", "nisman", "bisman", "cartas", "mesa", "NISMAN", "BISMAN", "Doctora",
-"Sobre las cartas", "sobre las cartas", "apuesto a todo", "todo confirmado", "Doctor", "doctor", "dotor", "dotora", "Dotora"]
+"Sobre las cartas", "sobre las cartas", "apuesto a todo", "apuesto", "todo confirmado", "todo cierto", "Doctor", "doctor", "dotor", "dotora", "Dotora",
+"fiscal", "Fiscal", "FISCAL", "pan", "PAN", "Pan", "Vino", "vino", "VINO"]
 
 # Define a few command handlers. These usually take the two arguments update and
 # context. Error handlers also receive the raised TelegramError object in error.
